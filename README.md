@@ -9,11 +9,11 @@
     <a href="https://github.com/Xioner19/Xioner19-CFG/commits/master">
     <img src="https://img.shields.io/github/last-commit/Xioner19/Xioner19-CFG.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
-    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO cfg:&url=https%3A%2F%2Fgithub.com%2FXioner19%2FXioner19-CFG">
+	    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO cfg:&url=https%3A%2F%2Fgithub.com%2FXioner19%2FXioner19-CFG">
     <img src="https://img.shields.io/twitter/url/https/github.com/Xioner19/Xioner19-CFG.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
-    <a href="https://github.com/Xioner19/Xioner19-CFG/releases">
-    <img src=" https://img.shields.io/github/downloads/Xioner19/Xioner19-CFG/total?style=flat-square"
+	    <a href="https://github.com/Xioner19/Xioner19-CFG/releases">
+    <img src="https://img.shields.io/github/downloads/Xioner19/Xioner19-CFG/total?style=flat-square"
     	 alt="GitHub downloads">
 </p>
       
