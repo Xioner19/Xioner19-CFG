@@ -131,6 +131,13 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 
 Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/Xioner19/Xioner19-CFG/wiki/).
 
+## Credits
+
+| [![Xioner19](https://cdn.discordapp.com/attachments/735276847855829003/1004868413098840166/xioner19_small.png)](https://github.com/Xioner19) | ![Community](https://cdn.discordapp.com/attachments/735276847855829003/1004875060152115210/rsz_community.png)		| ![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)		|
+|:-------------------------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------:|
+|                                                                 **Xioner19**                                                                 |                                           **The community**                                           |                                      **👑 Armin Chanchian** - orginal idea                                       |
+
+	    
 ## License
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
