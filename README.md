@@ -14,7 +14,7 @@
          alt="GitHub tweet">
     <a href="https://github.com/Xioner19/Xioner19-CFG/releases">
     <img src=" https://img.shields.io/github/downloads/Xioner19/Xioner19-CFG/total?style=flat-square"
-	 alt="GitHub downloads">
+    	 alt="GitHub downloads">
 </p>
       
 <p align="center">
