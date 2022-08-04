@@ -129,7 +129,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
     <i>: Informal
     <!>: Important
 ## Binds
-![Xioner19 CFG Binds](https://cdn.discordapp.com/attachments/735276847855829003/1004891562121101433/xioner19-cfg_1.png)
+![Xioner19 CFG Binds](https://cdn.discordapp.com/attachments/735276847855829003/1004896718069977088/Xioner19_binds.png)
 	    
 ## Wiki
 
