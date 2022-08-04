@@ -22,7 +22,9 @@
   <a href="#installation">Installation</a> •
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
+  <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
+  <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
 
@@ -71,7 +73,7 @@ That **INCLUDE** some settings from **PRO's cfg** files.
   * In bash, after changing the directory below to your Steam game library directory, use the following commands to install the script into your game files.
 ```
 cd "C:/Program Files/Steam/steamapps/common/Counter-Strike Global Offensive/" && 
-curl https://codeload.github.com/xioner19/csgo-training.cfg/tar.gz/master | tar -xz --strip=1 csgo-training.cfg/csgo
+curl https://codeload.github.com/Xioner19/Xioner19-CFG/tar.gz/refs/heads/main | tar -xz --strip=1 Xioner19-CFG/csgo
 ```
 		
 * **[OPTIONAL]** Set the **[launch options](https://github.com/Xioner19/Xioner19-CFG/wiki/Launch-Options)**.
@@ -126,7 +128,9 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 	<->: Analysis
     <i>: Informal
     <!>: Important
-
+## Binds
+![Xioner19 CFG Binds](https://cdn.discordapp.com/attachments/735276847855829003/1004891562121101433/xioner19-cfg_1.png)
+	    
 ## Wiki
 
 Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/Xioner19/Xioner19-CFG/wiki/).
