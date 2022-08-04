@@ -54,12 +54,26 @@ That **INCLUDE** some settings from **PRO's cfg** files.
 ## Installation
 
 ##### Downloading and installing steps:
-* **[Download](https://github.com/Xioner19/Xioner19-CFG/archive/master.zip)** the latest version of the config.
-* **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
-  * See below **[how to find your SteamID3](https://github.com/Xioner19/Xioner19-CFG#how-to-find-your-steamid3)**.
-* Place the **cfg** folder (from .zip) inside the **local** folder (from the path).
+**[RECOMENDED] Method 1:** **[Download](https://github.com/Xioner19/Xioner19-CFG/archive/master.zip)** the latest version of the config.
+  * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
+    * See below **[how to find your SteamID3](https://github.com/Xioner19/Xioner19-CFG#how-to-find-your-steamid3)**.
+  * Place the `video_optional.txt` file (from \...\cfg\) inside the **local** folder (from the path).
   * Replace all files if it asks.
-    * To use the **Video Settings**, rename `video_optional.txt` to `video.txt` and set it to `Read-only`.
+    * To use the **Video Settings**, rename `video_optional.txt` to `video.txt` and set it to `Read-only`
+  * **Go** to the your game installation folder:
+  * Paste the `csgo` folder inside. 
+  * Replace all files if it asks.
+		    
+**Method 2:**
+  * On Windows 10 17063 or later, run the [`install_Xioner19-CFG.bat`](https://raw.githubusercontent.com/Xioner19/Xioner19-CFG/master/install_Xioner19-CFG.bat) file to automatically download the script into your game files. It can also be used to update the script.
+
+**Method 3.**
+  * In bash, after changing the directory below to your Steam game library directory, use the following commands to install the script into your game files.
+```
+cd "C:/Program Files/Steam/steamapps/common/Counter-Strike Global Offensive/" && 
+curl https://codeload.github.com/xioner19/csgo-training.cfg/tar.gz/master | tar -xz --strip=1 csgo-training.cfg/csgo
+```
+		
 * **[OPTIONAL]** Set the **[launch options](https://github.com/Xioner19/Xioner19-CFG/wiki/Launch-Options)**.
   * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
   * Under the **General tab** click the **Set launch options...** button.
@@ -85,6 +99,7 @@ When a **new version** is out, you have **two methods** to _update_:
 * **Delete everything** (or **replace the files** when it asks).
 * **Redo** the [installation](https://github.com/Xioner19/Xioner19-CFG#installation) steps.
 * _After setup_, **change your preference** settings back (if it is the case).
+* **OR** You can run [`install_Xioner19-CFG.bat`](https://raw.githubusercontent.com/Xioner19/Xioner19-CFG/master/install_Xioner19-CFG.bat)
 
 This _config_ is **updated** (at a random time), so make sure you **come back** here to **check** for **updates**.
 
