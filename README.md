@@ -6,7 +6,7 @@
 <h4 align="center">👑 One of the best CS:GO configs made for gamers (and my setup)</h4>
 
 <p align="center">
-    <a href="https://github.com/Xioner19/Xioner19-CFG/commits/master">
+    <a href="https://github.com/Xioner19/Xioner19-CFG/commits/main">
     <img src="https://img.shields.io/github/last-commit/Xioner19/Xioner19-CFG.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
 	    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO cfg:&url=https%3A%2F%2Fgithub.com%2FXioner19%2FXioner19-CFG">
