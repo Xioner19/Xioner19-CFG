@@ -30,4 +30,4 @@
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
 - [ ] My changes don't generate new warnings.
-- [ ] I have read the [CONTRIBUTING](https://github.com/Xioner19/Xioner19-CFG/blob/master/docs/CONTRIBUTING.md) document.
+- [ ] I have read the [CONTRIBUTING](https://github.com/Xioner19/Xioner19-CFG/blob/master/.github/CONTRIBUTING.md) document.
