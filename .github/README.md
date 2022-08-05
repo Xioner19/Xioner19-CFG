@@ -62,7 +62,7 @@ That **INCLUDE** some settings from **PRO's cfg** files.
   * Place the `video_optional.txt` file (from \...\cfg\) inside the **local** folder (from the path).
   * Replace all files if it asks.
     * To use the **Video Settings**, rename `video_optional.txt` to `video.txt` and set it to `Read-only`
-  * **Go** to the your game installation folder:
+  * **Go** to the your game installation folder.
   * Paste the `csgo` folder inside. 
   * Replace all files if it asks.
 		    
