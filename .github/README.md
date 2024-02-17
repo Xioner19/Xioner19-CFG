@@ -3,7 +3,7 @@
   <a href="https://github.com/Xioner19/Xioner19-CFG/archive/master.zip"><img src="https://raw.githubusercontent.com/Xioner19/Xioner19-CFG/master/xioner19_cfg.png" alt="Xioner19 CFG"></a>
 </h1>
 
-<h4 align="center">👑 One of the best CS:GO configs made for gamers (and my setup)</h4>
+<h4 align="center">👑 One of the best CS2 configs made for gamers (and my setup)</h4>
 
 <p align="center">
     <a href="https://github.com/Xioner19/Xioner19-CFG/commits/main">
