@@ -45,7 +45,7 @@ It comes **filled** with **optimizations** that make use of the **all network ca
 That **INCLUDE** some settings from **PRO's cfg** files.
 
 <p align="center"> 
-	<img src="https://raw.githubusercontent.com/Xioner19/Xioner19-CFG/master/xioner19_cfg_code.png"> 
+	<img src="https://raw.githubusercontent.com/Xioner19/Xioner19-CFG/master/xioner19_cfg_c.png"> 
 </p>
 <p align="right">
 <sub>(Preview)</sub>
