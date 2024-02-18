@@ -36,7 +36,7 @@
 <tr>
 <td>
   
-**Xioner19 CFG** is a **one of the best** _config_ for _Counter-Strike: Global Offensive_ that aims to **improve the gameplay** and its **template is perfect**, enabling you to **customize** the game **settings** to your liking.
+**Xioner19 CFG** is a **one of the best** _config_ for _Counter-Strike: 2_ that aims to **improve the gameplay** and its **template is perfect**, enabling you to **customize** the game **settings** to your liking.
 
 It comes **filled** with **optimizations** that make use of the **all network capacity** and **game advantages**, overall **improving the gameplay** for a wide variety of _computers and players_.
 
@@ -61,11 +61,9 @@ That **INCLUDE** some settings from **PRO's cfg** files.
 **[RECOMENDED] Method 1:** **[Download](https://github.com/Xioner19/Xioner19-CFG/archive/master.zip)** the latest version of the config.
   * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
     * See below **[how to find your SteamID3](https://github.com/Xioner19/Xioner19-CFG#how-to-find-your-steamid3)**.
-  * Place the `video_optional.txt` file (from \...\cfg\) inside the **local** folder (from the path).
   * Replace all files if it asks.
-    * To use the **Video Settings**, rename `video_optional.txt` to `video.txt` and set it to `Read-only`
   * **Go** to the your game installation folder.
-  * Paste the `csgo` folder inside. 
+  * Paste the `game` folder inside. 
   * Replace all files if it asks.
 		    
 **Method 2:**
@@ -75,7 +73,7 @@ That **INCLUDE** some settings from **PRO's cfg** files.
   * In bash, after changing the directory below to your Steam game library directory, use the following commands to install the script into your game files.
 ```
 cd "C:/Program Files/Steam/steamapps/common/Counter-Strike Global Offensive/" && 
-curl https://codeload.github.com/Xioner19/Xioner19-CFG/tar.gz/refs/heads/main | tar -xz --strip=1 Xioner19-CFG/csgo
+curl https://codeload.github.com/Xioner19/Xioner19-CFG/tar.gz/refs/heads/main | tar -xz --strip=1 Xioner19-CFG/game
 ```
 		
 * **[OPTIONAL]** Set the **[launch options](https://github.com/Xioner19/Xioner19-CFG/wiki/Launch-Options)**.
